@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-size: 20px;
+}
+
+.contact {
+  font-family: serif;
+}
+
+.professional {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  color: grey;
+}
+
+.professional ul li {
+  list-style: none;
+}
+
+.volunteer {
+  font-family: sans-serif;
+  font-size: 1.2rem;
+  color: lightgrey;
+}
+
+.bold {
+  font-weight: bold;
+}
